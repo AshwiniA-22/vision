@@ -20,7 +20,7 @@ public class FindcountVowelsConsonants {
 		}
 		  }
 		  System.out.println("vowels counts :" +vowelCount);
-		  System.out.println("vowels counts :" + consonantCount);
+		  System.out.println("vowels countss :" + consonantCount);
 		 
 	}
 
